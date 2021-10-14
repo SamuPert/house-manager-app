@@ -144,7 +144,7 @@ Distributed under the MIT License. See <a href="https://github.com/SamuelePertic
 <!-- CONTACT -->
 ## Contact
 
-Samuele Perticarari - [@SamuelePertica1](https://twitter.com/SamuelePertica1) - samuele.perticarari@gmail.com
+Samuele Perticarari - [Telegram](https://t.me/SamuPert) - samuele.perticarari@gmail.com - [LinkedIn](https://www.linkedin.com/in/samuele-perticarari/)
 
 Project Link: [https://github.com/SamuelePerticarari/Mobile-Programming-Project](https://github.com/SamuelePerticarari/Mobile-Programming-Project)
 
