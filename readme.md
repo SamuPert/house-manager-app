@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/SamuelePerticarari/Mobile-Programming-Project">
+  <a href="https://github.com/SamuPert/house-manager-app">
     <img src="screenshots/app_logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -19,11 +19,11 @@
     Awesome app for managing the expenses of a student at home and organizing sports tournaments
     <br />
     <br />
-    <a href="https://github.com/SamuelePerticarari/Mobile-Programming-Project/tree/master/screenshots">View screenshots</a>
+    <a href="https://github.com/SamuPert/house-manager-app/tree/master/screenshots">View screenshots</a>
     ·
-    <a href="https://github.com/SamuelePerticarari/Mobile-Programming-Project/issues">Report Bug</a>
+    <a href="https://github.com/SamuPert/house-manager-app/issues">Report Bug</a>
     ·
-    <a href="https://github.com/SamuelePerticarari/Mobile-Programming-Project/issues">Request Feature</a>
+    <a href="https://github.com/SamuPert/house-manager-app/issues">Request Feature</a>
   </p>
 </div>
 
@@ -70,7 +70,7 @@ The project consists in the development of two mobile apps, one native and one h
 
 The native app was created for the Android operating system, with the Android Studio IDE and the Java language; instead, the hybrid app was created using the Xamarin framework, with the Visual Studio IDE and the C # language.
 
-You can read more about the project in the <a href="https://github.com/SamuelePerticarari/Mobile-Programming-Project/blob/master/Relazione%20Progetto%20Programmazione%20Mobile.pdf
+You can read more about the project in the <a href="https://github.com/SamuPert/house-manager-app/blob/master/Relazione%20Progetto%20Programmazione%20Mobile.pdf
 ">report</a>.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -105,7 +105,7 @@ Software that you need to use to get the app built and running. Follow the links
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/SamuelePerticarari/Mobile-Programming-Project.git
+   git clone https://github.com/SamuPert/house-manager-app.git
    ```
 2. Create cloud functions: Deploy the folder **/AndroidMobileProgrammingProject/functions** in Google Cloud
 3. Open up the **AndroidMobileProgrammingProject** folder in Android studio
@@ -135,7 +135,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See <a href="https://github.com/SamuelePerticarari/Mobile-Programming-Project/blob/master/LICENSE.md">`LICENSE.md`</a> for more information.
+Distributed under the MIT License. See <a href="https://github.com/SamuPert/house-manager-app/blob/master/LICENSE.md">`LICENSE.md`</a> for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -146,7 +146,7 @@ Distributed under the MIT License. See <a href="https://github.com/SamuelePertic
 
 Samuele Perticarari - [Telegram](https://t.me/SamuPert) - samuele.perticarari@gmail.com - [LinkedIn](https://www.linkedin.com/in/samuele-perticarari/)
 
-Project Link: [https://github.com/SamuelePerticarari/Mobile-Programming-Project](https://github.com/SamuelePerticarari/Mobile-Programming-Project)
+Project Link: [https://github.com/SamuPert/house-manager-app](https://github.com/SamuPert/house-manager-app)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -154,10 +154,10 @@ Project Link: [https://github.com/SamuelePerticarari/Mobile-Programming-Project]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://shields.io/ -->
-[issues-shield]: https://img.shields.io/github/issues/SamuelePerticarari/Mobile-Programming-Project
-[issues-url]: https://github.com/SamuelePerticarari/Mobile-Programming-Project/issues
-[license-shield]: https://img.shields.io/github/license/SamuelePerticarari/Mobile-Programming-Project
-[license-url]: https://github.com/SamuelePerticarari/Mobile-Programming-Project/blob/master/LICENSE.md
-[linkedin-shield]: https://img.shields.io/badge/LinkedIn-SamuelePerticarari-blue
+[issues-shield]: https://img.shields.io/github/issues/SamuPert/house-manager-app
+[issues-url]: https://github.com/SamuPert/house-manager-app/issues
+[license-shield]: https://img.shields.io/github/license/SamuPert/house-manager-app
+[license-url]: https://github.com/SamuPert/house-manager-app/blob/master/LICENSE.md
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-SamuPert-blue
 [linkedin-url]: https://www.linkedin.com/in/samuele-perticarari/
 [product-screenshot]: screenshots/expenses_list.jpg
